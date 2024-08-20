@@ -1,0 +1,3 @@
+- So this is a regular react typescript project
+- I tried to use the bare minimum for this
+- I lot of the hard work were handler by tanstack table for sorting or filtering but there are some edge case where I needed to use custom fct to handle both
